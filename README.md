@@ -1,2 +1,2 @@
 # DrinkMachine
-Drink machine code in java from 2nd year module.
+Year 2 university Object Oriented Programing module coding the working for a predefined simulation of a Hot Drink Machine. The temperature of the water heated up a set rate when the heater was turned on and would have to be reach a certain temperature before it would be useful for making a drink. There was then various requirements on cost and types of drinks with a system prebuilt to simulate the interface with the buttons pressed and coins dispensed. 
